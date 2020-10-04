@@ -1,5 +1,5 @@
 # Youtube to Spotify playlist automation
-A python automation script that generates a spotify playlist, searches and then adds all your youtube liked videos playlist songs to your newly generate spotify playlist. This project serves the purpose of automating a process that was previously tedious for me to do and also acts as a project to become more familiar with using API's. 
+A python automation script that generates a spotify playlist, searches, and then adds all your youtube liked videos playlist songs to your newly generated spotify playlist. This project serves the purpose of automating a process that was previously tedious for me to do and also acts as a project to become more familiar with using API's. 
 
 ## Table of Contents
 * [Technologies](#Technologies)
