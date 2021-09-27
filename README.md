@@ -17,7 +17,7 @@ A python automation script that generates a spotify playlist, searches, and then
 1) Install All Dependencies   
 `pip3 install -r requirements.txt`
 
-2) Collect You Spotify User ID and Oauth Token From Spotfiy and add it to secrets.py file
+2) Collect Your Spotify User ID and Oauth Token From Spotfiy and add it to secrets.py file
     * To Collect your User ID, Log into Spotify then go here: [Account Overview] and its your **Username**
     * To Collect your Oauth Token, Visit this url here: [Get Oauth] and click the **Get Token** button
 
